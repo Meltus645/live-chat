@@ -3,10 +3,10 @@ Simple Live chat app
 
 # backend:
   |
-  |____ PHP -OOP
+  |____ PHP -> Performs Crud
   |
-  |____ Mysqli 
+  |____ Mysqli -> DBMS queries database
   |
-  |____ JQuery-Ajax
+  |____ JQuery-Ajax -> data fetch and post
 
 Real time chat application
