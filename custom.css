@@ -7,15 +7,18 @@
 }
 html{
 	scroll-behavior: smooth;
-	font-size: 62.5%;
 }
 body,html{
 	width:100%;
 }
 
 :root{
-	--red:red;
+	--purple:#631FA8;
 }
 body{
 	min-height: 100vh;
+}
+
+.bg-purple{
+	background-color:var(--purple);
 }
