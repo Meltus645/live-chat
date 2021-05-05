@@ -17,6 +17,5 @@ body,html{
 	--red:red;
 }
 body{
-	background: var(--red);
 	min-height: 100vh;
 }
