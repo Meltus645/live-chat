@@ -19,3 +19,9 @@ Simple Live chat app
   ____ JQuery-Ajax -> data fetch and post
 
 Real time chat application
+
+# prototype
+  |
+
+  |
+   _____ https://www.figma.com/file/I01VTWFyqzzYyeYebO2wHP/Chat-App?node-id=1%3A2
